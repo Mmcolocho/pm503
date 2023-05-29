@@ -7,7 +7,7 @@
 /*------------------------------------------*//*------------------------------------------*/
 #Configuracion	
 //Ip de la pc servidor de base de datos
-$host= 'localhost';
+$host= 'q0h7yf5pynynaq54.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 //nombre de la base de datos
 $name_bd= 'xyg58t7pm3tdpf8y';
 //usuario de la base de datos 
